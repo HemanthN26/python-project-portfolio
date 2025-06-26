@@ -50,8 +50,4 @@ A simple Frogger-style game built using Python's `turtle` module. Great for begi
 
 
 
-```bash
-python main.py
-
-
 
